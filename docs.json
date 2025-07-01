@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Vantio",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#4F32C3",
+    "light": "#674DD1",
+    "dark": "#432CA0"
   },
   "favicon": "/favicon.svg",
   "navigation": {
